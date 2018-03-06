@@ -1,6 +1,9 @@
 import React from "react";
 import glamorous from "glamorous";
 
+// Components \\
+import Navbar from "./Navbar";
+
 export default function Landing() {
     const overlay = require("./assets/lorem-overlay.png");
     const LandingContainer = glamorous.div({
@@ -14,7 +17,7 @@ export default function Landing() {
     });
     return (
         <LandingContainer>
-
+            <Navbar />
         </LandingContainer>
     );
 }
