@@ -1,0 +1,27 @@
+{
+  "name": "ire",
+  "version": "1.0.0",
+  "description": "Burn it to the ground.",
+  "main": "index.js",
+  "scripts": {
+    "go": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noblepaper/ire"
+  },
+  "keywords": [
+    "comic",
+    "hand",
+    "drawn",
+    "fire",
+    "female",
+    "empowerment"
+  ],
+  "author": "Kit Masaracchia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noblepaper/ire/issues"
+  },
+  "homepage": "https://github.com/noblepaper/ire#readme"
+}
